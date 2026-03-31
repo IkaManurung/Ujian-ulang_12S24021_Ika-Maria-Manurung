@@ -1,0 +1,1 @@
+package smartwallet.model
